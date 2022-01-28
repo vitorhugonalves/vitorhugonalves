@@ -9,6 +9,14 @@ Sou um SysAdmin, entusiasta e que odeia fazer tarefas repetitivas. Você vai enc
 - 👯 Gosto de ajudar as pessoas
 - 💬 Fique à vontade em questionar, contribuir e realizar Forks dos códigos
 
+
+___
+
+## 🔧 Minhas Skills
+
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Bash" src="https://img.shields.io/badge/-Bash-0E353D?style=for-the-badge&logo=gnubash&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+
 ---
 ## 📊 Minhas Estatísticas
 
